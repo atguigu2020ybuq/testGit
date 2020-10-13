@@ -13,7 +13,7 @@
 		    <!---jar的坐标   junit/junit/4.9/junit-4.9.jar-->
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.8</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
